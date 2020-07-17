@@ -3,10 +3,5 @@
     "lon": -122.08,
     "lat": 37.39
   },
-  "weather":
-    {
-      "main": "Clear",
-      "description": "clear sky" 
-    },
-  "name": "Mountain View",
+  "name": "Mountain View"
 }
